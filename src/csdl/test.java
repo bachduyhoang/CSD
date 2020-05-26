@@ -10,5 +10,7 @@ package csdl;
  * @author Admin
  */
 public class test {
-    
+    public static void main(String[] args) {
+        System.out.println("Add Main");
+    }
 }
