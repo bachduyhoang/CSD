@@ -19,7 +19,9 @@ public class CSDL {
     public static void main(String[] args) {
         // TODO code application logic here
         // 9, 5 , 6, 8, 3
-
+        PriorityQueue.Entry a = new PriorityQueue.Entry(1 , "A");
+        
+        
 //        Stack s = new Link();
 //        s.push(5);
 //        s.push(3);
@@ -29,14 +31,14 @@ public class CSDL {
 //        System.out.println(a);
 
 
-        LinkList list = new LinkList();
-        list.addLast(9);
-        list.addFirst(5);
-        list.addFirst(3);
-        list.addLast(6);
-        list.print();
-        list.removeFirst();
-        list.print();
+//        LinkList list = new LinkList();
+//        list.addLast(9);
+//        list.addFirst(5);
+//        list.addFirst(3);
+//        list.addLast(6);
+//        list.print();
+//        list.removeFirst();
+//        list.print();
         
 //        SingLyLikedList  sl = new SingLyLikedList();
 //        sl.addLast("hoang");
